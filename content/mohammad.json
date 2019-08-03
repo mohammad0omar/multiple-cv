@@ -1,0 +1,43 @@
+
+    {
+      "name":"mohammad omar",
+      "position":"developper",
+      "address":"742, Evergreen Terrace, Springfield, Denver, Colorado - Mobile: 1234 567 890 – Email: 000@gmail.com",
+      "jobFor": "Professor in Computer Science at liu \"TARGET\"",
+      "pimage": "mohammad.jpg",
+      "education": [
+        {
+          "uni": "High School «LEARN»",
+          "pos": "Professor in Computer Science",
+          "date": "2011-2012",
+          "description": "Tutorial classes to high school students, subject Application Development in Programming Environment"
+        },
+        {
+          "uni": "Springfield High School",
+          "pos": "Professor in Computer Science",
+          "date": "2011-2012",
+          "description": "IT & Programming lessons to high school students"
+        }
+      ],
+      "Experience": [
+        {
+          "where": "Indiana University Bloomington",
+          "description": "School of Informatics & Computing Certificate,Programming (A Grade)"
+        },
+        {
+          "where": "Springfield College",
+          "description": "College Certificate (Grade 85-A)"
+        }
+      ],
+      "Skills": [
+        {
+          "name": "French Language",
+          "description": "DELF Certificate (Grade 17-TB)"
+        },
+        {
+          "name": "Communication",
+          "description": "Very good communication with students, team spirit."
+        }
+      ]
+    }
+

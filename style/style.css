@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Calibri", sans-serif;
+}
+#top{
+   height:  2.5rem;
+    position: sticky;
+}
+#head{
+background-color: #F2F2F2;
+   /* height: 5rem;*/
+}
+#name{
+    font-size: 4rem;
+    line-height: 115%;
+    color: #c8000a;
+}
+#position{
+    font-size: 2rem;
+    line-height: 115%;
+    color: #595959;
+    font-style: italic;
+}
+#address{
+font-size: 1.3rem;
+}
+.job{
+    font-size: 1.5rem;
+    font-family: "Malgun Gothic", sans-serif;
+
+}
+.jobAside{
+    font-size: 1.5rem;
+    line-height: 115%;
+    color: #595959;
+}
+.uni{
+    font-size: 1.5rem;
+    font-family: "Bauhaus Std Medium", sans-serif;
+    color: #7a5e9c;
+}
+.in{
+    font-size: 1.1rem;
+}
+.year{
+    background-color: #B2A1C7;
+    color: white;
+}
+.description{
+    color: #7F7F7F;
+}
